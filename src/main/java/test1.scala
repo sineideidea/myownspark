@@ -16,6 +16,7 @@ object test1 {
 
       }
     }.count()
+    println("git_learning")
 
   }
 }
