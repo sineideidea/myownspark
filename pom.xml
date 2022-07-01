@@ -55,7 +55,7 @@
         <dependency>
             <groupId>org.apache.kafka</groupId>
             <artifactId>kafka-clients</artifactId>
-            <version>0.10.0.0</version>
+            <version>0.10.2.2</version>
             <!-- 编译和测试使用jar包，没有传递性 -->
             <!--<scope>provided</scope>-->
         </dependency>
